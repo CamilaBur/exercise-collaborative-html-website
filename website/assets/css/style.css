@@ -1,3 +1,11 @@
 body{
     background: #BDBDBD;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+
+    body {
+        font-family: 'Heebo', sans-serif;
+        color: rgb(69, 16, 138);
+        background-color: black;
+    }
